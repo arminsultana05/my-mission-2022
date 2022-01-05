@@ -42,6 +42,9 @@ h1 {
     border: none;
 }
 
+
+/* 2nd part */
+
 .second-section {
     text-align: center;
 }
@@ -81,4 +84,28 @@ h1 {
 .all-3part {
     display: flex;
     justify-content: center;
+}
+
+.third-parent {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.padding-top {
+    padding-top: 50px;
+}
+
+.block {
+    display: block;
+}
+
+.button2 {
+    text-decoration: none;
+    background-image: linear-gradient(4deg, tomato, red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 250;
+    border-radius: 10px;
+    border: none;
 }
