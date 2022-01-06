@@ -119,6 +119,7 @@ h1 {
 
 .save-omicron {
     text-align: center;
+    padding-bottom: 50px;
 }
 
 .all-omicron {
@@ -135,6 +136,7 @@ h1 {
     background-color: black;
     text-align: center;
     color: white;
+    padding-top: 30px;
 }
 
 .red {
@@ -143,6 +145,23 @@ h1 {
 
 .bold {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 2em;
-    font-weight: 400px;
+    font-size: 50px;
+    font-weight: 500px;
+    padding-top: 50px;
+    border-top-width: 5px;
+    display: inline;
+}
+
+.border-shadow {
+    border-left-style: solid;
+    border-color: orangered;
+    padding-left: 15px;
+    border-width: 5px;
+    border-top-width: 5px;
+    border-start-start-radius: 5px;
+    font-size: 50px;
+}
+
+.foot {
+    padding-bottom: 30px;
 }
