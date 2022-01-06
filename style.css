@@ -95,8 +95,9 @@ h1 {
     margin-left: 150px;
 }
 
-.padding-top {
-    padding-top: 50px;
+.padding {
+    text-align: justify;
+    padding-left: 40px;
 }
 
 .block {
